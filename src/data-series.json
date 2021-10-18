@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Y: The Last Man",
+        "backgroundImg": "/assets/wallpaper1.jpg",
+        "quantity_seasons": 1,
+        "seasons": {
+            "s1_e1": {
+                "episode_title": "The Day Before",
+                "episode_number": 1,
+                "duration": 55,
+                "description": "Yorick and Agent 355 search for Dr. Allison Mann in war-torn Boston. Back in D.C., Jennifer hides the truth about Yorick from her political rivals."
+                
+            }
+        },
+        "general_description": "Based on DC Comics’ acclaimed series by Brian K. Vaughan and Pia Guerra, the drama “Y: The Last Man” traverses a post-apocalyptic world in which a cataclysmic event decimates every mammal with a Y chromosome but for one cisgender man and his pet monkey. The series follows the survivors in this new world as they struggle with their efforts to restore what was lost and the opportunity to build something better. Y: The Last Man is a 60-issue science fiction comic book series published beginning in 2002.",
+        "logo_serie": "/assets/scale.png"
+    },
+    {
+        "title": "title 2",
+        "backgroundImg": "/assets/wallpaper.jpg"
+    }
+]
